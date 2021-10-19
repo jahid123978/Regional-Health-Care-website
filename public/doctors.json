@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "name": "John",
+       "img": "https://cdn.pixabay.com/photo/2016/01/19/15/05/doctor-1149149__480.jpg",
+        "specialist": "Bachelor of Medicine, Bachelor of Surgery (MBBS, BMBS, MBChB, MBBCh)"
+
+    },
+    {
+        "id": 2,
+        "name": "Wern",
+        "img": "https://media.istockphoto.com/photos/indian-doctor-picture-id179011088?s=170667a",
+        "specialist": "Bachelor of Medicine (B.Med)"
+    },
+    {
+        "id": 3,
+        "name": "Whant",
+        "img": "https://thumbs.dreamstime.com/b/young-doctor-16088825.jpg",
+        "specialist": "Doctor of Medicine (MD)"
+    },
+    {
+        "id": 4,
+        "name": "Gill",
+        "img": "https://media.istockphoto.com/photos/female-doctor-picture-id465124678",
+        "specialist": "Doctor of Osteopathic Medicine (DO)"
+    },
+    {
+        "id": 5,
+        "name": "Bapasak",
+        "img": "https://media.istockphoto.com/photos/female-doctor-picture-id175193862",
+        "specialist": "Master of Medina (MM)"
+    },
+    {
+        "id": 6,
+        "name": "Werry",
+        "img": "https://images.theconversation.com/files/304957/original/file-20191203-66986-im7o5.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop",
+        "specialist": "Master of public Health (MPH)"
+    },
+    {
+        "id": 7,
+        "name": "Kerry",
+        "img": "https://media.istockphoto.com/photos/portrait-of-mature-male-doctor-wearing-white-coat-standing-in-picture-id1203995945?k=20&m=1203995945&s=612x612&w=0&h=g0_ioNezBqP0NXrR_36-A5NDHIR0nLabFFrAQVk4PhA=",
+        "specialist": "Muster of surgery (MS)"
+    },
+    {
+        "id": 8,
+        "name": "Roskar",
+        "img": "https://i2-prod.mirror.co.uk/incoming/article4843769.ece/ALTERNATES/s615/Doctor.jpg",
+        "specialist": "Gynecologist MBBS"
+    },
+    {
+        "id": 9,
+        "name": "Wasaky",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGgSt4cP5k02klGUgihbgirrNaxZYP4TmmTeMTD1FxtaAK_eclwmAXTP8DDYyjHvL1wdg&usqp=CAU",
+        "specialist": "Doctor of Clinical Medicine (DCM)"
+    },
+    {
+        "id": 10,
+        "name": "Berft",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi_2yrCOq9Q0joZK8TRFCmHcxDtoUPdXsu5AepayL4molUb7PhYnZG_8QOnBMBgJpeepU&usqp=CAU",
+        "specialist": "Doctor of Medical Science (DMSc)"
+    },
+    {
+        "id": 11,
+        "name": "Woffy",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgRZUC0WJelQnCRWEkcH7jl9LQ3WcDjK0nD-WmFUduNdkvtt6conMbAMC7hfJTo08qTJ4&usqp=CAU",
+        "specialist": "Doctor of surgery (DS)"
+    },
+    {
+        "id": 12,
+        "name": "Koer",
+        "img": "https://media.bizj.us/view/img/11402034/gettyimages-1032866450*800xx5700-3206-0-297.jpg",
+        "specialist": "Master of Philosophy(MPH)"
+    },
+    {
+        "id": 13,
+        "name": "Sofer",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqruX24v4Xwz7f3IJdYgNgVkMndMjd5vmLmdQWRiWJ9KNeibXjtZC9bsp7dDh0nlmxEfw&usqp=CAU",
+        "specialist": "Master of Medical Science (MMSc)"
+    },
+    {
+        "id": 14,
+        "name": "Wilkis",
+        "img": "https://i.guim.co.uk/img/media/ce9c149506881191caa4b1f838575d0dbb07e520/734_381_6827_4098/master/6827.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=635d8ebf56428fecdf4b35713b88fbc8",
+        "specialist": "MBBS"
+    },
+    {
+        "id": 15,
+        "name": "Tossy",
+        "img": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX29870437.jpg",
+        "specialist": "Master of Philosophy in Ophthalmology (MPhO)"
+    }
+]

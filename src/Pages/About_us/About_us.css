@@ -1,0 +1,16 @@
+@media only screen and (max-width: 600px) {
+    .about-container {
+      position: relative;
+      margin-top: 600px;
+    }
+    .about-story{
+        position: relative;
+        display: block;
+        top: -270px;
+
+    }
+    .about-mission{
+        position: relative;
+        top: -500px;
+    }
+  }
